@@ -1,2 +1,1 @@
-# Proyecto de Codealo | Landing Personal
-
+# Proyecto de Codealo - Landing Personal
