@@ -1,0 +1,45 @@
+* {
+	font-family: Comic Sans MS;
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+	align-items: center;
+	background-color: #F9F5FF;
+}
+h1 {
+	margin-top: 60px;
+	margin-bottom: 10px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+
+.tarjeta {
+	background-color: #9E77ED;
+	display: inline-block;
+	border-width: : 2px;
+	border-radius: 15px;
+	padding: 15px;
+}
+.button {
+	display: block;
+	background-color: #C8CCE5;
+	margin: 10px 10px;
+	border-radius: 15px;
+}
+.button i {
+	margin-right: 10px;
+}
+.button:hover {
+	color: white;
+	background-color: #4E5BA6;
+}
+.contacto p {
+	margin-bottom: 0px;
+}
+.contacto i {
+	margin-right: 10px;
+}
